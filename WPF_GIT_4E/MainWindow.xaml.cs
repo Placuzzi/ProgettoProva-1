@@ -16,6 +16,7 @@ using System.Windows.Shapes;
 
 namespace WPF_GIT_4E
 {
+    //ahahhahhah sei stato grieffato 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
