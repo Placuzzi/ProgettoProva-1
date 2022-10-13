@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label x:Name="lblStampa" Content="Label" HorizontalAlignment="Left" Height="26" Margin="309,131,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label x:Name="lblStampa" Content="Label" HorizontalAlignment="Left" Height="26" Margin="309,131,0,0" VerticalAlignment="Top" Width="137"/>
+        <Button x:Name="BnStampa" Content="Button" HorizontalAlignment="Left" Height="75" Margin="525,100,0,0" VerticalAlignment="Top" Width="211" Click="BnStampa_Click"/>
 
     </Grid>
 </Window>
